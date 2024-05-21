@@ -1,3 +1,4 @@
+![logo](https://github.com/SANAKHAN2211/SANAKHAN2211/blob/main/data%20analyst%20banner.png)
 <h1 align="center">Hi 👋, I'm Sana Khan</h1>
 <h3 align="center">A passionate DATA ANALYST from India</h3>
 
